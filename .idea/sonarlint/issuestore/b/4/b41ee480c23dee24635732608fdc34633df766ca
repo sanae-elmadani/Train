@@ -1,0 +1,31 @@
+
+9
+java:S1643'"Use a StringBuilder instead.(£„Ü8ÞØ†ªð0
+8
+java:S1643+"Use a StringBuilder instead.(¬ëÔ^8ÞØ†ªð0
+9
+java:S1643/"Use a StringBuilder instead.(á†–8ÞØ†ªð0
+>
+java:S16432"Use a StringBuilder instead.(±ïÀ×ùÿÿÿÿ8ÞØ†ªð0
+>
+java:S16435"Use a StringBuilder instead.(õ ¿ëüÿÿÿÿ8ÞØ†ªð0
+9
+java:S16438"Use a StringBuilder instead.(§ÅŠÈ8ÞØ†ªð0
+9
+java:S1643;"Use a StringBuilder instead.(ªŽ¡’8ÞØ†ªð0
+>
+java:S1643?"Use a StringBuilder instead.(¼©‚üüÿÿÿÿ8ÞØ†ªð0
+9
+java:S1643B"Use a StringBuilder instead.(×ÈÕò8ÞØ†ªð0
+v	java:S115	"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ãª•Ý8«Ú†ªð0
+{	java:S115
+"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(´¢³Îúÿÿÿÿ8«Ú†ªð0
+X	java:S125"<This block of commented-out lines of code should be removed.(Ì‡Àè8­Ú†ªð0
+t
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(«½‹þùÿÿÿÿ8­Ú†ªð0
+Y
+java:S39721"7Move this "if" to a new line or add the missing "else".(Ží¬øÿÿÿÿ8¯Ú†ªð0
+Y
+java:S39724"7Move this "if" to a new line or add the missing "else".(›Àâ‚úÿÿÿÿ8¯Ú†ªð0
+T
+java:S3972A"7Move this "if" to a new line or add the missing "else".(¥©„€8°Ú†ªð0
